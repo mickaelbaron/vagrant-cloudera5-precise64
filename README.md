@@ -1,11 +1,11 @@
 vagrant-cloudera5-precise64
 ===========================
 
-This project enables you to install Cloudera 5 Hadoop (CDH5) on Linux Precise 64, using [Vagrant] and [Puppet].
+This project enables you to install Cloudera 5 Hadoop (CDH5) on Linux Precise 64, using [Vagrant](http://www.vagrantup.com/) and [Puppet](http://puppetlabs.com/).
 
 ## Requirements
 
-* You need to have [Vagrant] installed.
+* You need to have [Vagrant](http://www.vagrantup.com/) installed.
 * The host machine probably needs at least 4 GB of RAM.
 
 ## Installation
